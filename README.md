@@ -1,4 +1,4 @@
-# Python-Mundo: 1,2 e 3!
+# Python-Mundo: 1, 2 e 3!
 115 Exercícios de lógica de programação em Python.
 
 Olá, meu nome é Sara. Estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia!
